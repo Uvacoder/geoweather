@@ -121,7 +121,5 @@ export const geolocationOptions = {
 }
 export const DEFAULT_LOCATIONS = [
   { latitude: 38.031052, longitude: -78.474159 }
- 
-  { latitude: 28.6139, longitude: 77.209 },
-  { latitude: 19.076, longitude: 72.8777 }
-]
+ ]
+  
